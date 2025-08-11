@@ -1,1 +1,2 @@
 # GPC
+Graficos por Computadora
